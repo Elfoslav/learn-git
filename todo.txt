@@ -1,3 +1,0 @@
-- Learn git
-- Learn github pages
-- Learn something else
